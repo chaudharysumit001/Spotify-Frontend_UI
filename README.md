@@ -3,6 +3,8 @@ This project is a front-end clone of the Spotify web application, created using 
 #Features
 ### Responsive Design: The web application is designed to be responsive, ensuring a seamless experience across various devices and screen sizes.
 
+🌐 [Live at](https://chaudharysumit001.github.io/Spotify-Frontend_UI/)
+
 ### Header and Navigation: Mimics the Spotify header and navigation bar, allowing users to easily navigate through the application.
 
 ### Playlist Display: Replicates the display of playlists, including cover images, titles, and artist information.
